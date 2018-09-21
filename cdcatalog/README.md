@@ -1,10 +1,9 @@
+# CD Catalog XML example
 
-A simple example of data about CDs.  
+A simple example of using XML for reporesenta data about a CD clooection consisting of a
 
-First look at cdcatalogNoXSL.xml in your browser. This is
-the version with the style sheet declaration commented out.
+* cdcatalog.xml -- an example of some data for a CD collection 
 
-Then look at cdcatalog.xml, which has the style sheet
-declaration uncommented.  
+* cdcatalog.xsd -- an Xml schema file that describes the structure a cdcatalog.xml file should follow
 
-The .xsl file is the style sheet, of course.
+* cdcatalog.xsl -- a style sheet that will produce HTML from the xml data
