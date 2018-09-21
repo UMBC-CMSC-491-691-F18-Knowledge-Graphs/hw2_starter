@@ -2,8 +2,9 @@
 
 <?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
 
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="cdcatalog.xsd">
+<catalog
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="cdcatalog.xsd">
 
 <cd>
   <title>Empire Burlesque</title>
@@ -240,4 +241,3 @@
 </cd>
 
 </catalog>
-  

@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet type="text/xsl" href="ExpReport.xsl" ?> 
+<?xml-stylesheet type="text/xsl" href="ExpReport.xsl" ?>
 
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="ExpReport.xsd">
-
-<expense-report 
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-  xsi:noNamespaceSchemaLocation="ExpReport.xsd" 
-  currency="USD" 
-  detailed="false" 
+<expense-report
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="ExpReport.xsd"
+  currency="USD"
+  detailed="false"
   total-sum="556.9">
 
   <Person>
